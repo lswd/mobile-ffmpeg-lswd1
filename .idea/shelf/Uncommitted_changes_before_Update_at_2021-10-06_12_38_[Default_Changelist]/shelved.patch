@@ -1,0 +1,66 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"bba4d9bb-0700-4720-a149-c3ee96c69243\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PATH_TO_GIT\" value=\"E:\\ruanjian\\git\\Git\\bin\\git.exe\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1z71sL4ifs4lBYer96hdLgxG2oX\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"android.sdk.path\" value=\"E:/ruanjian/java/sdk\" />\r\n    <property name=\"dart.analysis.tool.window.visible\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../../../../../../project/vue/timecapsule/flutter_timecapsule_HotFix\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"show.migrate.to.gradle.popup\" value=\"false\" />\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"bba4d9bb-0700-4720-a149-c3ee96c69243\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1633484517173</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1633484517173</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"修改最小版本为19\">\r\n      <created>1633494545839</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1633494545839</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"修改最小版本为19\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"修改最小版本为19\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"754\" y=\"306\" key=\"#Web_Browsers\" timestamp=\"1633488023597\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"754\" y=\"306\" key=\"#Web_Browsers/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1633488023597\" />\r\n    <state x=\"414\" y=\"175\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1633489428716\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"414\" y=\"175\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1633489428716\" />\r\n    <state x=\"368\" y=\"71\" key=\"CommitChangelistDialog2\" timestamp=\"1633494544658\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"368\" y=\"71\" key=\"CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1633494544658\" />\r\n    <state x=\"740\" y=\"275\" key=\"FileChooserDialogImpl\" timestamp=\"1633491606816\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"740\" y=\"275\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1633491606816\" />\r\n    <state x=\"793\" y=\"417\" width=\"333\" height=\"263\" key=\"Github.ShareDialog\" timestamp=\"1633493693324\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"793\" y=\"417\" width=\"333\" height=\"263\" key=\"Github.ShareDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1633493693324\" />\r\n    <state x=\"546\" y=\"223\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1633492248819\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"546\" y=\"223\" key=\"Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1633492248819\" />\r\n    <state x=\"461\" y=\"164\" key=\"SettingsEditor\" timestamp=\"1633493655791\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"461\" y=\"164\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1633493655791\" />\r\n    <state x=\"746\" y=\"425\" key=\"SetupCloudRepositoryDialog\" timestamp=\"1633493314379\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"746\" y=\"425\" key=\"SetupCloudRepositoryDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1633493314379\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision bd11592a8499eec4679d673026be14d9cbffcb8f)
++++ .idea/workspace.xml	(date 1633495049166)
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="bba4d9bb-0700-4720-a149-c3ee96c69243" name="Default Changelist" comment="" />
++    <list default="true" id="bba4d9bb-0700-4720-a149-c3ee96c69243" name="Default Changelist" comment="修改最小版本为19" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -9,6 +9,11 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="PATH_TO_GIT" value="E:\ruanjian\git\Git\bin\git.exe" />
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="lswd" />
++      </list>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1z71sL4ifs4lBYer96hdLgxG2oX" />
+@@ -44,7 +49,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1633494545839</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="修改最小版本为19">
++      <created>1633494760278</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1633494760278</updated>
++    </task>
++    <task id="LOCAL-00003" summary="修改最小版本为19">
++      <created>1633494975501</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1633494975501</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -60,10 +79,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633489428716" />
+-    <state x="368" y="71" key="CommitChangelistDialog2" timestamp="1633494544658">
++    <state x="368" y="71" key="CommitChangelistDialog2" timestamp="1633494979834">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="368" y="71" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1633494544658" />
++    <state x="368" y="71" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1633494979834" />
+     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1633491606816">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
